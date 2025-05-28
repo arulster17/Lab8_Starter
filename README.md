@@ -1,4 +1,7 @@
 # Lab8-Starter
+
+https://arulster17.github.io/Lab8_Starter
+
 Arul Mathur & Mohamed Hamdi
 
 **Graceful Degradation Paragraph**
